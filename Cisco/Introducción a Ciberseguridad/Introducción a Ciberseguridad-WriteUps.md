@@ -57,8 +57,8 @@ Esta hoja de ruta fue mi punto de partida para mi inserción en la cibersegurida
 - [Logro Salvaguardias del Sistema](https://imgur.com/a/x478Lxk)
 - [Logro Defensa de la Red](https://imgur.com/a/McbngU0)
 - [Logro Especialista en Recursos](https://imgur.com/a/CVL6vRg)
-
-##Fin
+---
+## Fin
 
 
 
