@@ -93,4 +93,5 @@ La sala **Security Principles** introduce los fundamentos de la seguridad de la 
 
 ---
 
+![image](https://github.com/user-attachments/assets/df16035d-a373-4f17-884d-896661f45169)
 
