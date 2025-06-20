@@ -84,9 +84,8 @@ smbclient //10.10.10.2/secret -U suit -p 445
 `ssh`
 
 3. **¿Cómo conectarse a un servidor Telnet (IP 10.10.10.3)?**  
-```bash
-telnet 10.10.10.3 23
-
+bash
+``telnet 10.10.10.3 23``
 
 ![image](https://github.com/user-attachments/assets/04dbb7ef-15e5-4364-8c3b-7effadeb1e7b)
 
