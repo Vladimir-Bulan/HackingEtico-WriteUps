@@ -71,6 +71,7 @@ Aquí pueden documentarse:
 ---
 
 ## 📚 Referencias
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/35996e9c-68f5-4798-b305-a3931b575e75" />
 
 - [Curso oficial en Coursera – Foundations of Cybersecurity](https://www.coursera.org/learn/foundations-of-cybersecurity)
 - [Descripción del programa en Coursera – Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity)
