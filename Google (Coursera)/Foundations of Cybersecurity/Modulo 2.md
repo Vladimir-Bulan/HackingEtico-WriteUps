@@ -123,6 +123,8 @@ El Módulo 2 introduce los caminos profesionales dentro de la ciberseguridad y l
 > 🔐 *"La ciberseguridad es un esfuerzo colaborativo. Comprender tu rol es el primer paso para proteger los activos digitales."*
 
 ---
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0654212f-a249-4ba0-aed1-13d9dba88e40" />
+
 
 📌 **Próximo módulo**: Principios de confidencialidad, integridad y disponibilidad (CIA).
 
