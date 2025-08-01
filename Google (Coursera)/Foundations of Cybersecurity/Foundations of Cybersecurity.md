@@ -1,4 +1,4 @@
-# 🛡️ Foundations of Cybersecurity – Curso 1 del Google Cybersecurity Certificate
+# 🛡️ Foundations of Cybersecurity
 
 Este es el primer curso del programa **Google Cybersecurity Professional Certificate**, ofrecido en [Coursera](https://www.coursera.org/learn/foundations-of-cybersecurity/home/welcome). Está diseñado para brindar una introducción clara, práctica y accesible al mundo de la ciberseguridad.
 
