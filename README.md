@@ -14,4 +14,5 @@ Mi objetivo es aprender y compartir mis avances en ciberseguridad, enfocándome 
 
 ##  Disclaimer
 Todo este contenido es con fines **educativos** y respeta los términos de uso de cada plataforma. No se promueve ningún tipo de acceso no autorizado.
+
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Vladimir-Bulan.HackingEtico-WriteUps)
