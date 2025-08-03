@@ -71,6 +71,9 @@ Aquí pueden documentarse:
 ---
 
 ## 📚 Referencias
+https://coursera.org/share/e5b644bed3f604ff4ad7e2062cfe129d
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b73ea71a-c0a4-4c6a-9e44-f96315f99aca" />
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/35996e9c-68f5-4798-b305-a3931b575e75" />
 
 - [Curso oficial en Coursera – Foundations of Cybersecurity](https://www.coursera.org/learn/foundations-of-cybersecurity)
