@@ -53,6 +53,10 @@ Dividido en **4 módulos**, con contenido multimedia y ejercicios prácticos:
 
 ---
 https://www.coursera.org/programs/crece-con-google-2025-g7b8n/learn/manage-security-risks
+
+Certificado https://coursera.org/share/92bdceaa34c8bd3a5720dfda20040e4f
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/93e18e48-7b0c-436e-8c8a-885c5e94e743" />
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0c9d9dcd-f57b-4973-8992-22f18085f55b" />
 
     └── certificado-play-it-safe.pdf
