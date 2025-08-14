@@ -50,4 +50,8 @@ Al finalizar podrás:
 ---
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f45e9d0a-791e-427a-9b17-aae419080bb3" />
 
+https://coursera.org/share/bbc5d0c5a83d6e21e9942a46683e26e1
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3e33a7ce-3e8f-460a-aab5-a808bec43082" />
+
+
 
