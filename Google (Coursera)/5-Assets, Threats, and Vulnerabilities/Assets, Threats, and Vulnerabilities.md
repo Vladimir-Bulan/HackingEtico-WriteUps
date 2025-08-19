@@ -72,5 +72,8 @@ Este curso y el certificado completo preparan para roles como:
 
 ---
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/957ef90d-b895-44dd-bb69-238ed4f160df" />
+https://coursera.org/share/497f76e1bd1522ccae7fb93607f2e494
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0ceca13f-e5f2-4953-b981-0b9d040e4298" />
+
 
 
