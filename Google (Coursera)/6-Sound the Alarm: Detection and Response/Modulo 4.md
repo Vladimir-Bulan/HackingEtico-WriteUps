@@ -72,4 +72,5 @@ Al finalizar este módulo, el estudiante podrá:
 - Estudios de caso de incidentes reales (brechas, ataques APTs, ransomware).
 
 ---
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f7245fe7-2eb6-44f6-8bbd-35b80bcbb852" />
 
