@@ -60,4 +60,9 @@ Este repositorio funciona como un espacio de documentación y repaso del curso, 
 - [Coursera – Sound the Alarm: Detection and Response](https://www.coursera.org/learn/detection-and-response/home/welcome)  
 - [Google Cybersecurity Certificate](https://grow.google/certificates/cybersecurity/)  
 
+Certificado: https://coursera.org/share/8cf2d8db8b5c84799b875e54bf1d6bfc
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c0778d7d-deea-45c9-b13f-3fc637eebbde" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/df1265ec-cc61-499c-a0ff-05619347b398" />
+
+
