@@ -73,6 +73,9 @@ Aunque los módulos específicos pueden variar, típicamente el contenido abarca
 https://www.coursera.org/programs/crece-con-google-2025-g7b8n/learn/automate-cybersecurity-tasks-with-python?specialization=google-cybersecurity
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3e46e2f6-1a31-4f18-a153-a00828bb9522" />
 
+https://coursera.org/share/8d2ef3703b92ed9924122efd5cbe1f06
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9069b1f7-5e01-449d-a20f-27ebe1052c8d" />
+
 
 Si quieres, puedo crear una versión ya “lista para subir” con tu nombre, ejemplos concretos y un repositorio base. ¿Te la preparo?
 ::contentReference[oaicite:0]{index=0}
